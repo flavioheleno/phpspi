@@ -1,3 +1,5 @@
+**NOTE:** Check [embedded-php/ext-spi](https://github.com/embedded-php/ext-spi) instead.
+
 # phpspi
 
 Object-oriented PHP bindings for the [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) protocol using the [spidev](https://www.kernel.org/doc/Documentation/spi/spidev) linux kernel driver
